@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "subido"
+git remote add origin https://github.com/wxnterbear/parcial_moviles02-24.git
+git push -u origin master
